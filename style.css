@@ -65,3 +65,15 @@ ul {
     border-color: red;
     transform: scale(1.1);
 }
+
+footer {
+    margin-left: 5%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    text-align: center;
+}
+
+footer li, footer ul, footer a {
+    font-size: 0.9em;
+    padding: 0;
+}
