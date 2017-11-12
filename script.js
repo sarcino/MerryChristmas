@@ -17,14 +17,10 @@ window.onload = function() {
 
 function removeTransition(e) {
     // skip it if it is not a transform
-
     this.classList.remove("playing");
 };
 
 var keys = document.querySelectorAll(".key");
 keys.forEach(key => key.addEventListener("transitionend", removeTransition));
-    
-    
    
-  
 };

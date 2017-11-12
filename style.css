@@ -2,13 +2,14 @@
     box-sizing: border-box;
     font-size: 12pt;
     font-family: 'Open Sans', sans-serif;
+    color: #000000;
 }
 
 body {
     margin: 0px;
     padding: 0px;
     opacity: 0.8;
-    background-image: url(christmas-2560097.jpg);
+    background-image: url(background-15786.jpg);
     min-height: 400px;    
     min-width: auto;
     background-attachment: fixed;
@@ -55,6 +56,7 @@ main {
 
 kbd {
     font-size: 1.5em;
+    font-weight: bolder;
 }
 
 ul {
