@@ -9,7 +9,7 @@ body {
     margin: 0px;
     padding: 0px;
     opacity: 0.8;
-    background-image: url(background-15786.jpg);
+    background-image: url(christmas-2560095.jpg);
     min-height: 400px;    
     min-width: auto;
     background-attachment: fixed;
@@ -23,7 +23,7 @@ main {
     flex-direction: column;
     min-height: 100vh;
     align-items: center;
-    justify-content: center;
+    
 }
 
 .keys {
