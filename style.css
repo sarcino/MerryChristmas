@@ -16,10 +16,10 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    display: flex;
 }
 
 main {
-    display: flex;
     flex-direction: column;
     min-height: 100vh;
     align-items: center;
